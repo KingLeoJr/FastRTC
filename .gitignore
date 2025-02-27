@@ -1,0 +1,7 @@
+.env 
+venv/
+
+# Ignore site-packages
+site-packages/
+
+Scripts/
