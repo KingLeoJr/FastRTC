@@ -2,6 +2,8 @@
 
 This project comprises several Python scripts, each designed for specific multimedia and AI-driven tasks. Below is a breakdown of each file, its features, applications, and how to run it.
 
+
+
 ## Files and Descriptions
 
 ### 1. `video_effects.py`
@@ -104,6 +106,8 @@ This project comprises several Python scripts, each designed for specific multim
     python audio_stream.py
     ```
 
+## FastRTC Class Diagram
+![FastRTC Class Diagram ](https://raw.githubusercontent.com/KingLeoJr/FastRTC/refs/heads/main/FastRTC.png)
 
 
 ## Configuration
