@@ -106,8 +106,6 @@ This project comprises several Python scripts, each designed for specific multim
     python audio_stream.py
     ```
 
-## FastRTC Class Diagram
-![FastRTC Class Diagram ](https://raw.githubusercontent.com/KingLeoJr/FastRTC/refs/heads/main/FastRTC.png)
 
 
 ## Configuration
